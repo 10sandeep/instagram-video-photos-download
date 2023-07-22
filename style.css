@@ -1,0 +1,74 @@
+
+#frame{
+    
+    padding-bottom: 200px;
+    background-color: aqua;
+
+}
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 400px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  .steps{
+    text-align: justify;
+  }
+  .step-label{
+    padding: 3px 8px;
+    background: linear-gradient(54.09deg,#f18c07 2.03%,#bfdb0a 48.63%,#42f108 96.22%);
+    border-radius: 32px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+    margin-bottom:6px;
+    display: inline-block;
+
+}
+h2{
+    font-size: 40px;
+}
+#head-para{
+    font: bolder;
+    font-size: xx-large;
+    text-decoration: underline;
+    color: cadetblue;
+}
+.para{
+    font-family: serif;
+    font-size: 20px;
+}
+.headings{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    text-align: left;
+    color: darkblue;
+}
+.paragraph{
+    font-size: 20px;
+   width: 250px;
+   text-align: right;
+   
+}
